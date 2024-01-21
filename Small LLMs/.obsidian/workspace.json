@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a73b3327feaa9aa5",
+        "id": "0fd36426c130092a",
         "type": "tabs",
         "children": [
           {
-            "id": "5bdb6d7de58ade13",
+            "id": "577ba698703bbb25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "What options do we have.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -154.5,
+                  "y": 50,
+                  "zoom": -1.2173568314391499
+                }
               }
             }
           }
@@ -65,8 +68,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,9 +88,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What options do we have.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42381ce44b1464ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -100,23 +119,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "42381ce44b1464ad",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "What options do we have.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
               }
             }
           },
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What options do we have.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -147,11 +149,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 605.5
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,14 +167,14 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "5bdb6d7de58ade13",
+  "active": "577ba698703bbb25",
   "lastOpenFiles": [
-    "0 Inspiration Notes/2024-01-21.md",
-    "What options do we have.md",
     "0 Inspiration Notes/Why should we do so.md",
-    "Untitled 1.canvas",
     "Untitled.canvas",
+    "0 Inspiration Notes/2024-01-21.md",
     "2024-01-21.md",
+    "What options do we have.md",
+    "Untitled 1.canvas",
     "Reading Notes.md",
     "Catalogs.md",
     "Initial Thoughts.md",

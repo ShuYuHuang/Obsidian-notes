@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"ff65c4910e9b5a41","type":"file","file":"0 Inspiration Notes/2024-01-21.md","x":-540,"y":-340,"width":400,"height":260},
+		{"id":"029f65c253f9aaf3","type":"file","file":"0 Inspiration Notes/Why should we do so.md","x":-480,"y":40,"width":400,"height":400},
+		{"id":"c33beba96454a690","type":"file","file":"What options do we have.md","x":-100,"y":-320,"width":331,"height":310},
+		{"id":"bdfbec4964105a04","x":399,"y":-110,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"1ab06b960e546971","fromNode":"ff65c4910e9b5a41","fromSide":"bottom","toNode":"029f65c253f9aaf3","toSide":"top"},
+		{"id":"ec41240b520751b8","fromNode":"ff65c4910e9b5a41","fromSide":"right","toNode":"c33beba96454a690","toSide":"left"},
+		{"id":"67cb739ab29d4153","fromNode":"c33beba96454a690","fromSide":"right","toNode":"bdfbec4964105a04","toSide":"left"}
+	]
+}

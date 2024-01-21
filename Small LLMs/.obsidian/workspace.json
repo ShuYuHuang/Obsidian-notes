@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8491e631d6cfdfef",
+        "id": "b57d3d264614acfa",
         "type": "tabs",
         "children": [
           {
-            "id": "d345ab4d73853a4a",
+            "id": "be4565ea7d71f5b8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Small LLM Bird View.canvas",
-                "viewState": {
-                  "x": -560,
-                  "y": -450,
-                  "zoom": -0.8841192879498603
-                }
+                "file": "opt.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -51,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ranking",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Small LLM Bird View.canvas",
+                "file": "opt.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Small LLM Bird View.canvas",
+                "file": "opt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Small LLM Bird View.canvas"
+                "file": "opt.md"
               }
             }
           },
@@ -149,12 +147,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 500.5,
-    "collapsed": true
+    "width": 500.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,12 +165,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d345ab4d73853a4a",
+  "active": "be4565ea7d71f5b8",
   "lastOpenFiles": [
-    "sss.md",
-    "Small LLM Bird View.canvas",
-    "opt.md",
+    "Excalidraw/Drawing 2024-01-21 19.50.52.excalidraw.md",
     "LLAMA2.md",
+    "opt.md",
+    "Small LLM Bird View.canvas",
+    "sss.md",
     "Mixtral.md",
     "Vicuna.md",
     "meta-llama.md",
@@ -188,7 +186,6 @@
     "RAG as final goal.md",
     "RAGG as a final goal.md",
     "Rankings of Model usage in OpenRouter.md",
-    "Excalidraw/Drawing 2024-01-21 19.50.52.excalidraw.md",
     "Excalidraw/Drawing 2024-01-21 19.43.28.excalidraw.md",
     "Untitled Kanban.md",
     "ByteByteGo_LinkedIn_.pdf",

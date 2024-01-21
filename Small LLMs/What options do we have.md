@@ -1,5 +1,7 @@
 How to determine proprer options to use?
-We first look at the rankings of the models. There's a bunch of models we have in the world
+We first look at the rankings of the models. There's a bunch of models we have in the world but how to evaluate them? There are several Websites that ranks the 
+
+Hugginface:
 
 
 Open router: a website provides 

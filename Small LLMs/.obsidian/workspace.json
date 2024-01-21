@@ -19,20 +19,17 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "794c4a3eca6454d3",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "f9b57a961546a17f",
+            "id": "a295fa60a6cb4719",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2306.05685.pdf"
+                "file": "Vicuna.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -86,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ee293feeb40feb23",
@@ -186,8 +182,11 @@
   },
   "active": "81bb566ebef9dbab",
   "lastOpenFiles": [
-    "2306.05685.pdf",
+    "Excalidraw/Drawing 2024-01-21 23.09.58.excalidraw.md",
+    "Pasted Image 20240121231307_223.png",
+    "Vicuna.md",
     "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.md",
+    "2306.05685.pdf",
     "Pasted image 20240121230122.png",
     "Mixtral.md",
     "Pasted image 20240121225336.png",
@@ -200,7 +199,6 @@
     "Excalidraw/Drawing 2024-01-21 22.13.42.excalidraw.md",
     "Excalidraw/Drawing 2024-01-21 19.50.52.excalidraw.md",
     "sss.md",
-    "Vicuna.md",
     "0 Inspiration Notes/What options do we have.md",
     "0 Reading Notes/news prompt.md",
     "Untitled",
@@ -219,7 +217,6 @@
     "Excalidraw",
     "Untitled 1.canvas",
     "新想法.md",
-    "2024-01-21.md",
     "1 Permanent Notes",
     "0 Reading Notes",
     "Untitled/Untitled",

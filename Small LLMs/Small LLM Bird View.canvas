@@ -2,9 +2,9 @@
 	"nodes":[
 		{"id":"7a134459b1c21b1b","type":"group","x":-1560,"y":-840,"width":1940,"height":880,"label":"Local LLMs"},
 		{"id":"a52fab73992750c6","type":"file","file":"LLAMA2.md","x":-1520,"y":-720,"width":408,"height":180},
-		{"id":"5693f3adea315769","type":"file","file":"Mixtral.md","x":-440,"y":-670,"width":400,"height":260},
 		{"id":"9660584204c512b3","type":"file","file":"Vicuna.md","x":-960,"y":-750,"width":408,"height":240},
-		{"id":"af3fd973ea8bc273","x":-1060,"y":-410,"width":540,"height":210,"type":"file","file":"opt.md"}
+		{"id":"af3fd973ea8bc273","type":"file","file":"opt.md","x":-1060,"y":-410,"width":540,"height":210},
+		{"id":"5693f3adea315769","type":"file","file":"Mixtral.md","x":-240,"y":-540,"width":400,"height":260}
 	],
 	"edges":[
 		{"id":"0556096e2bb42bf8","fromNode":"a52fab73992750c6","fromSide":"right","toNode":"9660584204c512b3","toSide":"left"}

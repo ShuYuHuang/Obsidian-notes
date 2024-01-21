@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "opt.md",
+                "file": "LLAMA2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "opt.md",
+                "file": "LLAMA2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "opt.md",
+                "file": "LLAMA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "opt.md"
+                "file": "LLAMA2.md"
               }
             }
           },
@@ -167,14 +167,14 @@
   },
   "active": "be4565ea7d71f5b8",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-21 19.50.52.excalidraw.md",
+    "meta-llama.md",
     "LLAMA2.md",
-    "opt.md",
     "Small LLM Bird View.canvas",
+    "opt.md",
+    "Excalidraw/Drawing 2024-01-21 19.50.52.excalidraw.md",
     "sss.md",
     "Mixtral.md",
     "Vicuna.md",
-    "meta-llama.md",
     "0 Inspiration Notes/What options do we have.md",
     "0 Reading Notes/news prompt.md",
     "Untitled",

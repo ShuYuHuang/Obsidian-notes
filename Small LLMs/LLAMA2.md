@@ -1,4 +1,4 @@
-LlaMA2 (Jul. 2023) represent a big leap of local LLM, which allow the community to jump to GPT3.5-level quality local models (<70B).
+LlaMA2 (Jul. 2023) represent a big leap of local LLM, which allow the community to jump to ==GPT3.5-level quality local models== (<70B).
 **Organizations:** Meta ([[meta-llama]])
 ## SPEC
 - Sub-versions: 7B, 13B, 70B - chat, complete

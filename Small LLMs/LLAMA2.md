@@ -10,3 +10,4 @@ LlaMA2 (Jul. 2023) represent a big leap of local LLM, which allow the community 
 - [Llama 2 Community License Agreement - Meta AI](https://ai.meta.com/llama/license/)
 ## Links
 [Llama 2 - Meta AI](https://ai.meta.com/llama/)
+

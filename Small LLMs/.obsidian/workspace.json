@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b57d3d264614acfa",
+        "id": "ec47febc2bb42d71",
         "type": "tabs",
         "children": [
           {
-            "id": "be4565ea7d71f5b8",
+            "id": "4e8bf386eaa2f754",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Small LLM Bird View.canvas",
-                "viewState": {
-                  "x": -790,
-                  "y": -305,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "opt.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "opt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "opt.md"
-              }
+              "state": {}
             }
           },
           {
@@ -141,7 +130,7 @@
             }
           },
           {
-            "id": "152b941e5a6a29c4",
+            "id": "1e1432fd26302f35",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -149,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -167,22 +156,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be4565ea7d71f5b8",
+  "active": "4e8bf386eaa2f754",
   "lastOpenFiles": [
-    "Mixtral.md",
-    "Excalidraw/Drawing 2024-01-21 22.13.42.excalidraw.md",
-    "LLAMA2.md",
-    "meta-llama.md",
+    "0 Inspiration Notes/2024-01-21.md",
+    "0 Inspiration Notes/Why should we do so.md",
     "Small LLM Bird View.canvas",
     "opt.md",
+    "meta-llama.md",
+    "LLAMA2.md",
+    "Mixtral.md",
+    "Excalidraw/Drawing 2024-01-21 22.13.42.excalidraw.md",
     "Excalidraw/Drawing 2024-01-21 19.50.52.excalidraw.md",
     "sss.md",
     "Vicuna.md",
     "0 Inspiration Notes/What options do we have.md",
     "0 Reading Notes/news prompt.md",
     "Untitled",
-    "0 Inspiration Notes/Why should we do so.md",
-    "0 Inspiration Notes/2024-01-21.md",
     "0 Inspiration Notes/Pasted image 20240121144144.png",
     "Base.md",
     "url.md",
@@ -200,7 +189,6 @@
     "新想法.md",
     "2024-01-21.md",
     "Reading Notes.md",
-    "Catalogs.md",
     "1 Permanent Notes",
     "0 Reading Notes",
     "Untitled/Untitled",

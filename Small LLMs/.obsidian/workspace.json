@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "00df79c9bfbc4164",
+        "id": "afe7d50d22224548",
         "type": "tabs",
         "children": [
           {
-            "id": "59561c67c6434312",
+            "id": "6aff4adf295e42b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "RAG as final goal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a52e8179a61a44c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAGG as a final goal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RAGG as a final goal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -92,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RAGG as a final goal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RAGG as a final goal.md"
+              }
             }
           },
           {
@@ -136,13 +157,22 @@
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "152b941e5a6a29c4",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 500.5
+    "width": 500.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,15 +186,19 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "255c7c15e44bc47c",
+  "active": "4a52e8179a61a44c",
   "lastOpenFiles": [
+    "RAG as final goal.md",
+    "RAGG as a final goal.md",
+    "Untitled.canvas",
     "0 Inspiration Notes/2024-01-21.md",
-    "0 Reading Notes/news prompt.md",
+    "url.md",
     "0 Inspiration Notes/Why should we do so.md",
     "Rankings of Model usage in OpenRouter.md",
+    "新想法.md",
     "0 Inspiration Notes/What options do we have.md",
+    "0 Reading Notes/news prompt.md",
     "0 Inspiration Notes/Pasted image 20240121144144.png",
-    "Untitled.canvas",
     "2024-01-21.md",
     "Untitled 1.canvas",
     "Reading Notes.md",

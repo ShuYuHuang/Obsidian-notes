@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "58ec0de11fd953e7",
+        "id": "00df79c9bfbc4164",
         "type": "tabs",
         "children": [
           {
-            "id": "364a04f55fa48589",
+            "id": "59561c67c6434312",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -114,14 +114,6 @@
             }
           },
           {
-            "id": "726d2362f57a5bf4",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "daedf92aa9e521e6",
             "type": "leaf",
             "state": {
@@ -136,13 +128,21 @@
               "type": "copilot-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "255c7c15e44bc47c",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 644.5
+    "width": 500.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,10 +156,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "ce7f4b6fc1ff8262",
+  "active": "255c7c15e44bc47c",
   "lastOpenFiles": [
-    "0 Reading Notes/news prompt.md",
     "0 Inspiration Notes/2024-01-21.md",
+    "0 Reading Notes/news prompt.md",
     "0 Inspiration Notes/Why should we do so.md",
     "Rankings of Model usage in OpenRouter.md",
     "0 Inspiration Notes/What options do we have.md",

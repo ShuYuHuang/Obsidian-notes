@@ -11,18 +11,32 @@
             "id": "10bbaaa3c58ac882",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLAMA2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d338a7bb99218861",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "Small LLM Bird View.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 116.25,
-                  "zoom": 0
+                  "x": 137.63945126206073,
+                  "y": -168.6542855852329,
+                  "zoom": -0.6776600124438726
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "ranking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,14 +148,6 @@
             }
           },
           {
-            "id": "ce7f4b6fc1ff8262",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "255c7c15e44bc47c",
             "type": "leaf",
             "state": {
@@ -156,7 +163,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -175,11 +183,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f37e513c396e012b",
+  "active": "152b941e5a6a29c4",
   "lastOpenFiles": [
+    "Vicuna.md",
+    "LLAMA2.md",
+    "0 Inspiration Notes/What options do we have.md",
+    "meta-llama.md",
     "Small LLM Bird View.canvas",
     "0 Reading Notes/news prompt.md",
-    "0 Inspiration Notes/What options do we have.md",
     "Untitled",
     "0 Inspiration Notes/Why should we do so.md",
     "0 Inspiration Notes/2024-01-21.md",

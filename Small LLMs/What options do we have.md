@@ -3,6 +3,7 @@ We first look at the rankings of the models. There's a bunch of models we have i
 
 Hugginface:
 [Open LLM Leaderboard - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+![[Pasted image 20240121144144.png]]
 
 Open router: a website provides 
 [[Rankings of Model usage in OpenRouter]]

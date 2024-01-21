@@ -11,14 +11,11 @@
             "id": "577ba698703bbb25",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -154.5,
-                  "y": 50,
-                  "zoom": -1.2173568314391499
-                }
+                "file": "What options do we have.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "What options do we have.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "What options do we have.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "What options do we have.md"
               }
             }
           },
@@ -169,9 +166,10 @@
   },
   "active": "577ba698703bbb25",
   "lastOpenFiles": [
+    "Pasted image 20240121144144.png",
     "0 Inspiration Notes/Why should we do so.md",
-    "Untitled.canvas",
     "0 Inspiration Notes/2024-01-21.md",
+    "Untitled.canvas",
     "2024-01-21.md",
     "What options do we have.md",
     "Untitled 1.canvas",

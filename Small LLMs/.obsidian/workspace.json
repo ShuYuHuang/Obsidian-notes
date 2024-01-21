@@ -11,12 +11,14 @@
             "id": "d345ab4d73853a4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "LLAMA2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Small LLM Bird View.canvas",
+                "viewState": {
+                  "x": -560,
+                  "y": -450,
+                  "zoom": -0.8841192879498603
+                }
               }
             }
           }
@@ -86,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLAMA2.md",
+                "file": "Small LLM Bird View.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLAMA2.md",
+                "file": "Small LLM Bird View.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLAMA2.md"
+                "file": "Small LLM Bird View.canvas"
               }
             }
           },
@@ -168,11 +170,13 @@
   },
   "active": "d345ab4d73853a4a",
   "lastOpenFiles": [
+    "sss.md",
+    "Small LLM Bird View.canvas",
+    "opt.md",
+    "LLAMA2.md",
     "Mixtral.md",
     "Vicuna.md",
     "meta-llama.md",
-    "LLAMA2.md",
-    "Small LLM Bird View.canvas",
     "0 Inspiration Notes/What options do we have.md",
     "0 Reading Notes/news prompt.md",
     "Untitled",
@@ -197,8 +201,6 @@
     "2024-01-21.md",
     "Reading Notes.md",
     "Catalogs.md",
-    "Initial Thoughts.md",
-    "Idea Notes.md",
     "1 Permanent Notes",
     "0 Reading Notes",
     "Untitled/Untitled",

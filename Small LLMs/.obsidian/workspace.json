@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d12b801cd3d2b3c",
+        "id": "8491e631d6cfdfef",
         "type": "tabs",
         "children": [
           {
-            "id": "10bbaaa3c58ac882",
+            "id": "d345ab4d73853a4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,24 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d338a7bb99218861",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Small LLM Bird View.canvas",
-                "viewState": {
-                  "x": 137.63945126206073,
-                  "y": -168.6542855852329,
-                  "zoom": -0.6776600124438726
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Small LLM Bird View.canvas",
+                "file": "LLAMA2.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Small LLM Bird View.canvas",
+                "file": "LLAMA2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Small LLM Bird View.canvas"
+                "file": "LLAMA2.md"
               }
             }
           },
@@ -168,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500.5
+    "width": 500.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,17 +163,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-importer:Open Importer": false,
-      "copilot:Copilot Chat": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "152b941e5a6a29c4",
+  "active": "d345ab4d73853a4a",
   "lastOpenFiles": [
+    "Mixtral.md",
     "Vicuna.md",
-    "LLAMA2.md",
-    "0 Inspiration Notes/What options do we have.md",
     "meta-llama.md",
+    "LLAMA2.md",
     "Small LLM Bird View.canvas",
+    "0 Inspiration Notes/What options do we have.md",
     "0 Reading Notes/news prompt.md",
     "Untitled",
     "0 Inspiration Notes/Why should we do so.md",
@@ -218,8 +202,6 @@
     "1 Permanent Notes",
     "0 Reading Notes",
     "Untitled/Untitled",
-    "0 Inspiration Notes",
-    "create a link.md",
-    "Welcome.md"
+    "0 Inspiration Notes"
   ]
 }

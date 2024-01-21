@@ -1,10 +1,9 @@
-Vicuna project was hosted by Stanford, using LLAMA models to build open accessible and scalable LLMs.
+Vicuna project was hosted by Stanford, using LLAMA models to build open accessible and scalable LLMs. For Vicuna 1.5, they used GPT4 as judge to do RLHF in instruction tuing stage.
 **Organizations:** UC Berkeley, UC San Diego, Carnegie Mellon University, Stanford, MBZUAI
-
 ## SPEC
 - Sub-versions: 7B, 13B, 33B - chat, complete
 - Max tokens: 4K, 16K
-- Ranking: >100 for now
+- HF score: [54.97](https://huggingface.co/lmsys/vicuna-13b-v1.5-16k)
 ## LICENSE: 
 - Ok for commertial use
 - Need to supply with notice page

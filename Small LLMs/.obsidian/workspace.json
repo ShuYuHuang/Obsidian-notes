@@ -4,15 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "ec47febc2bb42d71",
+        "id": "fad89984a80f00eb",
         "type": "tabs",
         "children": [
           {
-            "id": "4e8bf386eaa2f754",
+            "id": "81bb566ebef9dbab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "794c4a3eca6454d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9b57a961546a17f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2306.05685.pdf"
+              }
             }
           }
         ]
@@ -65,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ee293feeb40feb23",
@@ -81,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -92,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.md"
+              }
             }
           },
           {
@@ -142,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500.5
+    "width": 500.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,18 +180,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "4e8bf386eaa2f754",
+  "active": "81bb566ebef9dbab",
   "lastOpenFiles": [
+    "2306.05685.pdf",
+    "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.md",
+    "Pasted image 20240121230122.png",
+    "Mixtral.md",
+    "Pasted image 20240121225336.png",
     "0 Inspiration Notes/2024-01-21.md",
     "0 Inspiration Notes/Why should we do so.md",
     "Small LLM Bird View.canvas",
     "opt.md",
     "meta-llama.md",
     "LLAMA2.md",
-    "Mixtral.md",
     "Excalidraw/Drawing 2024-01-21 22.13.42.excalidraw.md",
     "Excalidraw/Drawing 2024-01-21 19.50.52.excalidraw.md",
     "sss.md",
@@ -188,7 +220,6 @@
     "Untitled 1.canvas",
     "新想法.md",
     "2024-01-21.md",
-    "Reading Notes.md",
     "1 Permanent Notes",
     "0 Reading Notes",
     "Untitled/Untitled",

@@ -35,18 +35,6 @@
             }
           },
           {
-            "id": "e9e7e749f9520f9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-21 17.09.23.excalidraw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3e52a08b7d9ad8a9",
             "type": "leaf",
             "state": {
@@ -60,12 +48,19 @@
             "id": "ef20f3eb1e1bc975",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 254.3966155365098,
+                  "y": 307.1983077682549,
+                  "zoom": -1.4574033206999553
+                }
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +156,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -168,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.canvas"
+              }
             }
           },
           {
@@ -195,13 +194,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 500.5,
-    "collapsed": true
+    "width": 500.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,21 +215,22 @@
   },
   "active": "ef20f3eb1e1bc975",
   "lastOpenFiles": [
-    "0 Reading Notes/news prompt.md",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2024-01-21 17.12.43.excalidraw.md",
+    "0 Inspiration Notes/What options do we have.md",
+    "Rankings of Model usage in OpenRouter.md",
     "Excalidraw/Drawing 2024-01-21 17.09.23.excalidraw.md",
     "Excalidraw/Drawing 2024-01-21 17.09.50.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-21 17.12.43.excalidraw.md",
+    "ByteByteGo_LinkedIn_.pdf",
+    "0 Reading Notes/news prompt.md",
     "0 Inspiration Notes/Pasted image 20240121144144.png",
     "0 Inspiration Notes/Why should we do so.md",
     "url.md",
     "RAG as final goal.md",
     "RAGG as a final goal.md",
-    "Rankings of Model usage in OpenRouter.md",
     "Excalidraw",
     "Untitled 1.canvas",
     "0 Inspiration Notes/2024-01-21.md",
-    "0 Inspiration Notes/What options do we have.md",
     "新想法.md",
     "2024-01-21.md",
     "Reading Notes.md",

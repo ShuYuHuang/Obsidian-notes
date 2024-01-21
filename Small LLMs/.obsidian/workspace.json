@@ -13,37 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "What options do we have.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "d2b1fcb820e720ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "2ec57bf2be363407",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "01bfce4ec1e9fa3d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -92,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ee293feeb40feb23",
@@ -108,29 +81,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42381ce44b1464ad",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Welcome.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "f37e513c396e012b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "What options do we have.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,21 +104,54 @@
             }
           },
           {
+            "id": "42381ce44b1464ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "What options do we have.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "726d2362f57a5bf4",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
             "id": "daedf92aa9e521e6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "What options do we have.md"
               }
             }
+          },
+          {
+            "id": "93bf1100ef6f829e",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 605.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,13 +160,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "d2b1fcb820e720ec",
+  "active": "5bdb6d7de58ade13",
   "lastOpenFiles": [
+    "0 Inspiration Notes/2024-01-21.md",
+    "What options do we have.md",
+    "0 Inspiration Notes/Why should we do so.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2024-01-21.md",
+    "Reading Notes.md",
+    "Catalogs.md",
+    "Initial Thoughts.md",
+    "Idea Notes.md",
+    "1 Permanent Notes",
+    "0 Reading Notes",
+    "Untitled/Untitled",
+    "0 Inspiration Notes",
     "create a link.md",
-    "Welcome.md",
-    "Untitled.md"
+    "Welcome.md"
   ]
 }

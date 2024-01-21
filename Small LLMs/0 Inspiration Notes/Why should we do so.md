@@ -1,0 +1,1 @@
+There is a growing interest in the potential applications of small-sized LLMs, which could offer a balance between performance and resource requirements. By investigating their capabilities, we can determine if they are suitable for specific tasks and whether they can compete with larger models in terms of efficiency and effectiveness.

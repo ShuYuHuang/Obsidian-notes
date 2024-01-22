@@ -1,5 +1,7 @@
 {
   "promptDelete": false,
   "defaultViewMode": "source",
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true
 }

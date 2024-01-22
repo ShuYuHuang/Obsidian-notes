@@ -1,0 +1,31 @@
+
+0 Inspiration Notes/2024-01-21.md
+0 Inspiration Notes/Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.md
+0 Inspiration Notes/LLAMA2.md
+0 Inspiration Notes/LLAMA2.md#LICENSE:
+0 Inspiration Notes/LLAMA2.md#SPEC
+0 Inspiration Notes/Mistral.md
+0 Inspiration Notes/Mixtral.md
+0 Inspiration Notes/OPT.md
+0 Inspiration Notes/Pythia.md
+0 Inspiration Notes/Rankings of Model usage in OpenRouter.md
+0 Inspiration Notes/Small LLM Bird View.canvas
+0 Inspiration Notes/Untitled.md
+0 Inspiration Notes/Vicuna.md
+0 Inspiration Notes/Vicuna.md#LICENSE:
+0 Inspiration Notes/Vicuna.md#Links
+0 Inspiration Notes/Vicuna.md#SPEC
+0 Inspiration Notes/What options do we have.md
+0 Inspiration Notes/meta-llama.md
+Mistral.md
+ModelTemplate.md
+OPT (3.May.2022 by Meta AI).md
+Pythia.md
+Templates/ModelTemplate.md
+Untitled.md
+What options do we have.md
+What options do we have.md#Quick selections:
+What options do we have.md#Ranking Websites
+What options do we have.md#Ranking Websites{1}
+YARN.md
+opt.md

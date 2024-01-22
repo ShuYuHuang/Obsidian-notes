@@ -14,5 +14,9 @@ We first look at the rankings of the models. There's a bunch of models we have i
 
 ## Evaluation Indices
 
+## Quick selections:
+-  [[Mistral]] (Sep.2023 by MistralAI)
+- [[OPT]] (3.May.2022 by Meta AI)
+- [[Pythia]] 
 
 

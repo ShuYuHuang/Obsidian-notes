@@ -1,6 +1,7 @@
 
 0 Inspiration Notes/2024-01-21.md
 0 Inspiration Notes/Decoding Strategies for Response Generation.md
+0 Inspiration Notes/Drawing 2024-01-22 18.27.04.excalidraw.md
 0 Inspiration Notes/Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.md
 0 Inspiration Notes/LLAMA2.md
 0 Inspiration Notes/LLAMA2.md#LICENSE:

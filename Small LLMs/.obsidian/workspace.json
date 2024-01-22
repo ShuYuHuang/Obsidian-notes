@@ -24,17 +24,29 @@
             "id": "a0ba18ebdc2dc4dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "YARN.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "0 Inspiration Notes/Small LLM Bird View.canvas",
+                "viewState": {
+                  "x": -1750,
+                  "y": -1200,
+                  "zoom": -1.2706926215005938
+                }
+              }
+            }
+          },
+          {
+            "id": "2613a6115d2b6be8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "0 Inspiration Notes/Drawing 2024-01-22 18.27.04.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YARN.md"
+                "file": "0 Inspiration Notes/Drawing 2024-01-22 18.27.04.excalidraw.md"
               }
             }
           },
@@ -151,8 +163,12 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "a0ba18ebdc2dc4dc",
+  "active": "2613a6115d2b6be8",
   "lastOpenFiles": [
+    "0 Inspiration Notes/Small LLM Bird View.canvas",
+    "0 Inspiration Notes/Drawing 2024-01-22 18.27.04.excalidraw.md",
+    "Untitled.md",
+    "YARN.md",
     "Templates/ModelTemplate.md",
     "pics/Screenshot 2024-01-22 at 11.35.29 AM.png",
     "pics/Screenshot 2024-01-22 at 11.33.00 AM.png",
@@ -162,7 +178,6 @@
     "0 Inspiration Notes/Why should we do so.md",
     "0 Inspiration Notes/What options do we have.md",
     "0 Inspiration Notes/Vicuna.md",
-    "0 Inspiration Notes/Small LLM Bird View.canvas",
     "0 Inspiration Notes/Rankings of Model usage in OpenRouter.md",
     "0 Inspiration Notes/Pythia.md",
     "0 Inspiration Notes/OPT.md",
@@ -175,8 +190,6 @@
     "0 Inspiration Notes/2024-01-21.md",
     "pdfs/2306.05685.pdf",
     "pdfs",
-    "Untitled.md",
-    "YARN.md",
     "pics",
     "Templates",
     "OPT (3.May.2022 by Meta AI).md",
@@ -189,7 +202,6 @@
     "sss.md",
     "Base.md",
     "url.md",
-    "RAG as final goal.md",
     "ByteByteGo_LinkedIn_.pdf",
     "Excalidraw",
     "Untitled 1.canvas",

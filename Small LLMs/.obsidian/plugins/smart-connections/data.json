@@ -1,8 +1,8 @@
 {
-  "api_key": "",
+  "api_key": "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",
   "chat_open": true,
   "file_exclusions": "",
-  "folder_exclusions": "",
+  "folder_exclusions": "Excalidraw",
   "header_exclusions": "",
   "path_only": "",
   "show_full_path": false,

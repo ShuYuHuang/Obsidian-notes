@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Inspiration Notes/Decoding Strategies for Response Generation.md",
+                "file": "YARN.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Inspiration Notes/Decoding Strategies for Response Generation.md"
+                "file": "YARN.md"
               }
             }
           },
@@ -153,31 +153,31 @@
   },
   "active": "a0ba18ebdc2dc4dc",
   "lastOpenFiles": [
-    "0 Inspiration Notes/Mixtral.md",
-    "0 Inspiration Notes/Decoding Strategies for Response Generation.md",
+    "Templates/ModelTemplate.md",
+    "pics/Screenshot 2024-01-22 at 11.35.29 AM.png",
+    "pics/Screenshot 2024-01-22 at 11.33.00 AM.png",
+    "pics/Screenshot 2024-01-22 at 11.30.52 AM.png",
+    "pics/Pasted image 20240121144144.png",
+    "0 Reading Notes/news prompt.md",
+    "0 Inspiration Notes/Why should we do so.md",
+    "0 Inspiration Notes/What options do we have.md",
+    "0 Inspiration Notes/Vicuna.md",
     "0 Inspiration Notes/Small LLM Bird View.canvas",
+    "0 Inspiration Notes/Rankings of Model usage in OpenRouter.md",
+    "0 Inspiration Notes/Pythia.md",
+    "0 Inspiration Notes/OPT.md",
+    "0 Inspiration Notes/Mixtral.md",
     "0 Inspiration Notes/Mistral.md",
+    "0 Inspiration Notes/meta-llama.md",
+    "0 Inspiration Notes/LLAMA2.md",
+    "0 Inspiration Notes/Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.md",
+    "0 Inspiration Notes/Decoding Strategies for Response Generation.md",
+    "0 Inspiration Notes/2024-01-21.md",
     "pdfs/2306.05685.pdf",
     "pdfs",
-    "0 Reading Notes/news prompt.md",
     "Untitled.md",
-    "0 Inspiration Notes/OPT.md",
-    "0 Inspiration Notes/Vicuna.md",
-    "0 Inspiration Notes/Rankings of Model usage in OpenRouter.md",
-    "pics/Pasted image 20240121144144.png",
-    "0 Inspiration Notes/Pythia.md",
-    "0 Inspiration Notes/LLAMA2.md",
-    "0 Inspiration Notes/What options do we have.md",
-    "0 Inspiration Notes/Why should we do so.md",
     "YARN.md",
-    "0 Inspiration Notes/meta-llama.md",
-    "0 Inspiration Notes/Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.md",
-    "0 Inspiration Notes/2024-01-21.md",
-    "pics/Screenshot 2024-01-22 at 11.30.52 AM.png",
-    "pics/Screenshot 2024-01-22 at 11.33.00 AM.png",
     "pics",
-    "pics/Screenshot 2024-01-22 at 11.35.29 AM.png",
-    "Templates/ModelTemplate.md",
     "Templates",
     "OPT (3.May.2022 by Meta AI).md",
     "Excalidraw/Drawing 2024-01-21 23.09.58.excalidraw.md",

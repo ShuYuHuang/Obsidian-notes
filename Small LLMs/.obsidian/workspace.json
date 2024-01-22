@@ -24,14 +24,12 @@
             "id": "a0ba18ebdc2dc4dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0 Inspiration Notes/Small LLM Bird View.canvas",
-                "viewState": {
-                  "x": -1447.7678107288466,
-                  "y": -939.7705660283831,
-                  "zoom": -0.39037553949286824
-                }
+                "file": "0 Inspiration Notes/Decoding Strategies for Response Generation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -113,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Inspiration Notes/Small LLM Bird View.canvas"
+                "file": "0 Inspiration Notes/Decoding Strategies for Response Generation.md"
               }
             }
           },
@@ -156,10 +154,11 @@
   "active": "a0ba18ebdc2dc4dc",
   "lastOpenFiles": [
     "0 Inspiration Notes/Mixtral.md",
+    "0 Inspiration Notes/Decoding Strategies for Response Generation.md",
+    "0 Inspiration Notes/Small LLM Bird View.canvas",
     "0 Inspiration Notes/Mistral.md",
     "pdfs/2306.05685.pdf",
     "pdfs",
-    "0 Inspiration Notes/Small LLM Bird View.canvas",
     "0 Reading Notes/news prompt.md",
     "Untitled.md",
     "0 Inspiration Notes/OPT.md",
@@ -171,7 +170,6 @@
     "0 Inspiration Notes/What options do we have.md",
     "0 Inspiration Notes/Why should we do so.md",
     "YARN.md",
-    "0 Inspiration Notes/Untitled.md",
     "0 Inspiration Notes/meta-llama.md",
     "0 Inspiration Notes/Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.md",
     "0 Inspiration Notes/2024-01-21.md",

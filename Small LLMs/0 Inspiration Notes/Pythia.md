@@ -21,7 +21,7 @@ DESCRIPTION_OF_MODEL
 - https://huggingface.co/lambdalabs/pythia-2.8b-deduped-synthetic-instruct/tree/main
 ## Links:
 
-System Prompt:
+## System Prompt:
 ```python
 # OpenAssistant Pythia default template
 register_conv_template(

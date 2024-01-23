@@ -20,7 +20,21 @@ DESCRIPTION_OF_MODEL
 ## Descendent:
 - https://huggingface.co/lambdalabs/pythia-2.8b-deduped-synthetic-instruct/tree/main
 ## Links:
-- 
+
+System Prompt:
+```python
+# OpenAssistant Pythia default template
+register_conv_template(
+    Conversation(
+        name="oasst_pythia",
+        roles=("<|prompter|>", "<|assistant|>"),
+        sep_style=SeparatorStyle.NO_COLON_SINGLE,
+        sep="<|endoftext|>",
+    )
+)
+
+```
+[source](https://github.com/lm-sys/FastChat/blob/8163cb2719b3155fd5b83dd0bf4190f61a847a6d/fastchat/conversation.py#L318)
 
 2024-01-22
 

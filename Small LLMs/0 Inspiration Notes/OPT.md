@@ -12,6 +12,7 @@ OPT (May.2022) was a research project of Meta AI for investigating the scalabili
 - 
 
 ## System Prompt
+(Using default prompt)
 ```python
 register_conv_template(
     Conversation(

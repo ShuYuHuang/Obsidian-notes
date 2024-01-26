@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"7a134459b1c21b1b","type":"group","x":-2488,"y":-1400,"width":1940,"height":1160,"label":"Local LLMs"},
+		{"id":"6afba278715e6e13","type":"group","x":-2280,"y":-2160,"width":1524,"height":500,"label":"Model Ranking"},
+		{"id":"2a85335c4dec67de","type":"group","x":-2269,"y":-2071,"width":558,"height":318,"label":"Hugginface Leaderboard"},
+		{"id":"19e946de1fd5c3ba","type":"group","x":-1228,"y":-2099,"width":417,"height":375,"label":"OpenRouter"},
+		{"id":"77f27933edd46f41","type":"group","x":-1660,"y":-2071,"width":417,"height":318,"label":"LMSYS Arena"},
+		{"id":"832354774c227759","type":"file","file":"pics/Screenshot 2024-01-22 at 11.35.29 AM.png","x":-2249,"y":-2051,"width":518,"height":278},
+		{"id":"a58fa5fed5dee563","type":"text","text":"https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard","x":-2167,"y":-1833,"width":355,"height":60},
+		{"id":"91f216fb7ff9ff3d","type":"file","file":"pics/Screenshot 2024-01-22 at 11.33.00 AM.png","x":-1640,"y":-2051,"width":376,"height":278},
+		{"id":"f54df771aed3e25c","type":"text","text":"https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard","x":-1610,"y":-1823,"width":290,"height":50},
+		{"id":"edcd8a8591e66e4d","type":"file","file":"pics/Screenshot 2024-01-22 at 11.30.52 AM.png","x":-1208,"y":-2079,"width":377,"height":335},
+		{"id":"aa6619ffe91f3138","type":"text","text":"# https://openrouter.ai/rankings","x":-1197,"y":-1794,"width":355,"height":50},
+		{"id":"61b394d976c1984e","type":"file","file":"0 Inspiration Notes/meta-llama.md","x":-2952,"y":-1400,"width":400,"height":400},
+		{"id":"af3fd973ea8bc273","type":"file","file":"0 Inspiration Notes/OPT.md","x":-2283,"y":-1320,"width":798,"height":160},
+		{"id":"a52fab73992750c6","type":"file","file":"0 Inspiration Notes/LLAMA2.md","x":-2952,"y":-910,"width":408,"height":180},
+		{"id":"5693f3adea315769","type":"file","file":"0 Inspiration Notes/Mixtral.md","x":-1160,"y":-870,"width":400,"height":260},
+		{"id":"9660584204c512b3","type":"file","file":"0 Inspiration Notes/Vicuna.md","x":-2283,"y":-1090,"width":806,"height":180},
+		{"id":"50c911152cad3bd6","type":"file","file":"0 Inspiration Notes/Mistral.md","x":-2283,"y":-860,"width":798,"height":240}
+	],
+	"edges":[
+		{"id":"0556096e2bb42bf8","fromNode":"a52fab73992750c6","fromSide":"right","toNode":"9660584204c512b3","toSide":"left"},
+		{"id":"3ce86a30ccc4674c","fromNode":"a52fab73992750c6","fromSide":"right","toNode":"50c911152cad3bd6","toSide":"left"},
+		{"id":"3669674a156a5850","fromNode":"50c911152cad3bd6","fromSide":"right","toNode":"5693f3adea315769","toSide":"left"},
+		{"id":"b0bce160f3da1780","fromNode":"61b394d976c1984e","fromSide":"right","toNode":"af3fd973ea8bc273","toSide":"left"},
+		{"id":"d3c3f389076ad1d5","fromNode":"6afba278715e6e13","fromSide":"bottom","toNode":"7a134459b1c21b1b","toSide":"top"},
+		{"id":"6673c39c97729108","fromNode":"61b394d976c1984e","fromSide":"right","toNode":"9660584204c512b3","toSide":"left"}
+	]
+}

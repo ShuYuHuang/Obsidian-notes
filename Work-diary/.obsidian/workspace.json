@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Date.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Date.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Date.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Date.md"
               }
             }
           },
           {
-            "id": "e9307ae1aa1c6d18",
+            "id": "c6de7a4c07d2fac0",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -159,6 +159,6 @@
   "active": "a0991c43c96b82a1",
   "lastOpenFiles": [
     "create a link.md",
-    "Welcome.md"
+    "Date.md"
   ]
 }

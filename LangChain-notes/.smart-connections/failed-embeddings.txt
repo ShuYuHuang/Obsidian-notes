@@ -1,0 +1,79 @@
+
+Catalog.md
+Catalog.md#Course
+Catalog.md#Document Handeling
+Catalog.md#Models
+Catalog.md#New Techs
+Topics/Embedding for Vector DB.md
+Topics/Functions.md
+Topics/Functions.md#Assign function in openai call
+Topics/Functions.md#Bind function in langchain with ChatOpenAI
+Topics/Functions.md#Function in chain
+Topics/Functions.md#Multiple functions
+Topics/Functions.md#Prepare function and function schema
+Topics/Functions.md#Pydantic to OpenAI function definition
+Topics/Functions.md#Pydantic to OpenAI function definition#Forcing it to use a function
+Topics/Functions.md#Pydentic objects
+Topics/Functions.md#nested pydentic objct
+Topics/Functions.md#simple pydentic object
+Topics/LCEL.md
+Topics/LCEL.md#Chaining processes
+Topics/LCEL.md#Fallbacks
+Topics/LCEL.md#Interfaces
+Topics/LLMs.md
+Topics/LLMs.md#Selections:
+Topics/LLMs.md#Selections:#Human Assess Leaderboard
+Topics/LLMs.md#Selections:#Metric Leaderboard
+Topics/LLMs.md#Selections:#Techs
+Topics/Loading.md
+Topics/Memory.md
+Topics/Memory.md#Memories in LangChain
+Topics/Memory.md#Pblm and Method
+Topics/Memory.md#Pblm and Method#ConversationBufferWindowMemory
+Topics/Memory.md#Pblm and Method#ConversationSummaryBufferMemory
+Topics/Memory.md#Pblm and Method#ConversationSummaryMemory
+Topics/NER.md
+Topics/OCR.md
+Topics/OCR.md#Dataset/Contest
+Topics/OCR.md#Source of models
+Topics/OCR.md#Tryout
+Topics/Output Parsing.md
+Topics/Output Parsing.md#Pydantic
+Topics/Output Parsing.md#Pydantic#Ref
+Topics/QA bot Staff.md
+Topics/QA bot Staff.md#Methods for combining different query results
+Topics/QA bot Staff.md#RetrievalQA (Staff)
+Topics/QA bot Staff.md#create db object
+Topics/QA bot Staff.md#filter: filter on docs' metadata. must have metadata
+Topics/QA bot Staff.md#get document ready
+Topics/Routing Chains.md
+Topics/Routing Chains.md#LLM Chains
+Topics/Routing Chains.md#Router Chain
+Topics/Routing Chains.md#Router Chain#1. Prepare Destination Chains
+Topics/Routing Chains.md#Router Chain#2. Prepare RouterChain
+Topics/Routing Chains.md#Router Chain#3. Chain Router and Destinations together
+Topics/Routing Chains.md#Sequential Chains#SimpleSequentialChain
+Topics/Routing Chains.md#return string#SequentialChain
+Topics/SpeechToText.md
+Topics/Speed Ups for LLM using Engines.md
+Topics/Speed Ups for LLM using Engines.md#Buiding with V100?
+Topics/Speed Ups for LLM using Engines.md#Flash attention
+Topics/Speed Ups for LLM using Engines.md#LLM Engines
+Topics/Speed Ups for LLM using Engines.md#Requirement for flash-attention library:
+Topics/Summarization.md
+Topics/Summarization.md#Summarization of document
+Topics/Summarization.md#Summarization of document#execute
+Topics/Summarization.md#from langchain.chains.mapreduce import MapReduceChain
+Topics/Summarization.md#from langchain.chains.mapreduce import MapReduceChain#execute
+Topics/Summarization.md#from langchain.chains.mapreduce import MapReduceChain#execute{1}
+Topics/Summarization.md#from langchain.chains.mapreduce import MapReduceChain#prepare
+Topics/Summarization.md#from langchain.chains.mapreduce import MapReduceChain#prepare{1}
+Topics/Use cases.md
+Topics/Use cases.md#'api_wrapper' , not necessary
+Topics/Use cases.md#3. reply using that result from running
+Topics/Use cases.md#Customized tools
+Topics/Use cases.md#Python Agent
+Topics/Use cases.md#Tools
+Topics/Use cases.md#ask it to do something
+Topics/Use cases.md#give some variables
+Topics/Vision-Text.md

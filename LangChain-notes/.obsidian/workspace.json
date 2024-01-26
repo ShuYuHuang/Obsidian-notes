@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/LLMs.md",
+                "file": "Topics/Learning from Qwen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/LLMs.md",
+                "file": "Topics/Learning from Qwen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topics/LLMs.md",
+                "file": "Topics/Learning from Qwen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topics/LLMs.md"
+                "file": "Topics/Learning from Qwen.md"
               }
             }
           },
           {
-            "id": "8544038bff1e6f90",
+            "id": "4ef6f7c78ec51d9c",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -156,11 +156,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8544038bff1e6f90",
+  "active": "4ef6f7c78ec51d9c",
   "lastOpenFiles": [
     "Catalog.md",
-    "Learning from Qwen.md",
     "Topics/Vision-Text.md",
+    "Topics/LLMs.md",
+    "Topics/Learning from Qwen.md",
     "Topics/Speed Ups for LLM using Engines.md",
     "Topics/SpeechToText.md",
     "Topics/NER.md",
@@ -168,7 +169,6 @@
     "Topics/OCR.md",
     "Topics/Functions.md",
     "Topics",
-    "Topics/LLMs.md",
     "Topics/Use cases.md",
     "'../Small-LLMs/Small.md",
     "'../Small-LLMs",

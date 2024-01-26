@@ -16,3 +16,5 @@
         - paged-attention
         - xformer support for training
     - Tool Usage
+
+#alibaba #lang-en #lang-ch #1_8B #7B #14B #32K_token

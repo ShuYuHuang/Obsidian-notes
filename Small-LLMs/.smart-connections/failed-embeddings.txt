@@ -9,7 +9,13 @@
 0 Inspiration Notes/Mistral.md
 0 Inspiration Notes/Mixtral.md
 0 Inspiration Notes/OPT.md
+0 Inspiration Notes/OPT.md#Links:
+0 Inspiration Notes/OPT.md#SPEC:
+0 Inspiration Notes/OPT.md#System Prompt
 0 Inspiration Notes/Pythia.md
+0 Inspiration Notes/Pythia.md#Descendent:
+0 Inspiration Notes/Pythia.md#OpenAssistant Pythia default template
+0 Inspiration Notes/Pythia.md#SPEC:
 0 Inspiration Notes/Rankings of Model usage in OpenRouter.md
 0 Inspiration Notes/Small LLM Bird View.canvas
 0 Inspiration Notes/Untitled.md

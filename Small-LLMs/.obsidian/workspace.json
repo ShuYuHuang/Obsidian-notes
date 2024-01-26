@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Inspiration Notes/OPT.md",
+                "file": "0 Inspiration Notes/Pythia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,12 +111,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Inspiration Notes/OPT.md"
+                "file": "0 Inspiration Notes/Mistral.md"
               }
             }
           },
           {
-            "id": "30ff7e65218352d7",
+            "id": "de628085e0c3e03b",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -125,19 +124,19 @@
             }
           },
           {
-            "id": "2f5e6564803d5432",
+            "id": "4079a78abe6114da",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 500.5,
-    "collapsed": true
+    "width": 500.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,7 +151,7 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "a0ba18ebdc2dc4dc",
+  "active": "4079a78abe6114da",
   "lastOpenFiles": [
     "0 Inspiration Notes/Pythia.md",
     "0 Inspiration Notes/OPT.md",

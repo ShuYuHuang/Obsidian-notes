@@ -1,7 +1,8 @@
 # Selections:
-- ChatGPT 3.5 turbo - for public use, costy
+- ChatGPT 3.5 turbo - for public use, costly
 - Cohere - for public use, no cost
 - LLAMA2 - on premise
+- Smaller LLMs: https://github.com/ShuYuHuang/Obsidian-notes/blob/main/Small-LLMs/Small%20LLM%20Bird%20View.canvas
 
 ## Metric Leaderboard
 

@@ -22,5 +22,5 @@ Mistral (Oct.2023) was a descendent of [[LLAMA2]], aims for commercial usage. It
 - https://www.sohu.com/a/728705390_121649381
 - https://arxiv.org/pdf/2310.06825.pdf
 
-#mistral_family 
+#mistral_family #fastchat
 2024-01-22

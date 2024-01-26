@@ -38,4 +38,4 @@ register_conv_template(
 
 2024-01-22
 
- #meta #work
+ #meta #fastchat 

@@ -1,9 +1,10 @@
 [
   "obsidian-extract-pdf-highlights",
+  "optimize-canvas-connections",
   "smart-connections",
+  "obsidian-git",
+  "link-exploder",
   "obsidian-kanban",
   "obsidian-importer",
-  "canvas-mindmap",
-  "link-exploder",
-  "optimize-canvas-connections"
+  "canvas-mindmap"
 ]

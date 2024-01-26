@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Inspiration Notes/Mistral.md"
+                "file": "0 Inspiration Notes/Pythia.md"
               }
             }
           },
@@ -136,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500.5
+    "width": 500.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,8 +153,9 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "4079a78abe6114da",
+  "active": "a0ba18ebdc2dc4dc",
   "lastOpenFiles": [
+    "0 Inspiration Notes/Mistral.md",
     "0 Inspiration Notes/Pythia.md",
     "0 Inspiration Notes/OPT.md",
     "0 Inspiration Notes/Small LLM Bird View.canvas",
@@ -173,7 +176,6 @@
     "0 Inspiration Notes/Vicuna.md",
     "0 Inspiration Notes/Rankings of Model usage in OpenRouter.md",
     "0 Inspiration Notes/Mixtral.md",
-    "0 Inspiration Notes/Mistral.md",
     "0 Inspiration Notes/Decoding Strategies for Response Generation.md",
     "0 Inspiration Notes/2024-01-21.md",
     "pdfs/2306.05685.pdf",

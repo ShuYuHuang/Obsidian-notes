@@ -136,9 +136,17 @@
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "0f260c3d49d35302",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -156,7 +164,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4ef6f7c78ec51d9c",
+  "active": "0f260c3d49d35302",
   "lastOpenFiles": [
     "Catalog.md",
     "Topics/Vision-Text.md",

@@ -130,18 +130,18 @@
             }
           },
           {
-            "id": "4ef6f7c78ec51d9c",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "0f260c3d49d35302",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "32b463791141d430",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -164,7 +164,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0f260c3d49d35302",
+  "active": "32b463791141d430",
   "lastOpenFiles": [
     "Catalog.md",
     "Topics/Vision-Text.md",

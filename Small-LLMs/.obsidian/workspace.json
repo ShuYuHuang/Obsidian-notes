@@ -116,18 +116,18 @@
             }
           },
           {
-            "id": "de628085e0c3e03b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "4079a78abe6114da",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d97d6f3436ffa988",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -136,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500.5,
-    "collapsed": true
+    "width": 500.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,7 +151,7 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "cbec6da0fc2120ff",
+  "active": "d97d6f3436ffa988",
   "lastOpenFiles": [
     "Small LLM Bird View.canvas",
     "0 Inspiration Notes/Mistral.md",
